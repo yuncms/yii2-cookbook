@@ -1,5 +1,4 @@
-CSRF
-====
+# CSRF
 
 Cross-site request Forgery (CSRF) is one of a typical web application vulnerabilities. It's based on the assumption that
 user may be authenticated at some legitimate website. Then he's visiting attacker's website which issues requests to
@@ -41,7 +40,7 @@ No error has occurred. This is because CSRF protection works only for unsafe req
 `DELETE`. That's why in order to stay safe your application should never ever use `GET` requests to change application
 state.
 
-## Disabling CSRF protection
+## 禁用 CSRF 防护
 
 In some cases you may need to disable CSRF validation. In order to do it set `$enableCsrfValidation` Controller property
 to `false`:
@@ -68,7 +67,7 @@ class MyController extends Controller
 
 See [handling incoming third party POST requests](incoming-post.md) for details.
 
-## Adding CSRF protection
+## 添加 CSRF 防护
 
 CSRF protection is enabled by default so what you need is to submit a token along with all your requests. Usually it's
 done via hidden field:
@@ -83,7 +82,7 @@ done via hidden field:
 
 In case `ActiveForm` is used, token is added automatically.
 
-## See also
+## 其他
 
 - [OWASP article about CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_%28CSRF%29_Prevention_Cheat_Sheet)
 - [Handling incoming third party POST requests](incoming-post.md).
