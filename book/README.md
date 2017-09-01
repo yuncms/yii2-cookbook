@@ -1,26 +1,22 @@
-Table of Contents
-=================
+# 目录
 
 - [Preface](preface.md)
 
-Unnoticed basics
-----------------
+## 基础知识
 
 - How component works
 - Events
 - What to choose? Object or Component?
 - Configuring components globally
 
-Logging and error handling
---------------------------
+## 日志和错误处理
 
 - [Logging: problems and solutions](logging-problems-and-solutions.md)
 - Customizing 404 page
 - Handling errors and exceptions
 - Understanding error stack trace
 
-Web essentials
---------------
+## Web essentials
 
 - [URLs with variable number of parameters](urls-variable-number-of-parameters.md)
 - [Outputting JSON and XML](response-formats.md)
@@ -30,8 +26,7 @@ Web essentials
 - AJAX???
 - [Handling incoming third party POST requests](incoming-post.md)
 
-SEO essentials
---------------
+## SEO必需品
 
 - [Enable pretty URLs](enable-pretty-urls.md)
 - [Pagination with pretty URLs](pagination-pretty-urls.md)
@@ -41,16 +36,14 @@ SEO essentials
 - [Using slugs](using-slugs.md)
 - [Handling trailing slash in URLs](handling-trailing-slash-in-urls.md)
 
-Forms
------
+## 表单
 
 - [Using and customizing captcha](forms-captcha.md)
 - [Working with ActiveForm via JavaScript](forms-activeform-js.md)
 - [Uploading files](forms-uploading-files.md)
 - [Custom validator for multiple attributes](forms-validator-multiple-attributes.md)
 
-Security
---------
+## 安全
 
 - A safe approach to passwords explained
 - [SQL injection](sql-injection.md)
@@ -58,8 +51,7 @@ Security
 - [RBAC](security-rbac.md)
 - [CSRF](csrf.md)
 
-Structuring and organizing code
--------------------------------
+## 构建和组织代码
 
 - [Backend and frontend via modules](structure-backend-frontend-modules.md)
 - [Asset processing with Grunt](structure-asset-processing-with-grunt.md)
@@ -71,8 +63,7 @@ Structuring and organizing code
 - [SOLID](solid.md)
 - [Dependencies](dependencies.md)
 
-View
-----
+## 视图
 
 - [Reusing views via partials](reusing-views-via-partials.md)
 - Using blocks
@@ -81,12 +72,10 @@ View
 - [Switching themes dynamically](switching-themes.md)
 - [Post-processing response](response-post-processing.md)
 
-Models
-------
+## Models
 
 
-Active Record
--------------
+## Active Record
 
 - Has and belongs to many
 - Using SQL and noSQL at the same time
@@ -94,16 +83,14 @@ Active Record
 - [Single table inheritance](ar-single-table-inheritance.md)
 
 
-i18n
-----
+## 多语言
 
 - General best practices
 - [Selecting application language](i18n-selecting-application-language.md)
 - [Using IDs as translation source](i18n-using-ids-as-translation-source.md)
 
 
-Performance
------------
+## 性能
 
 - Necessary production setup
 - Speeding up sessions
@@ -112,14 +99,12 @@ Performance
 - [Caching](caching.md)
 - [Configuring a Yii2 Application for an Autoscaling Stack](scaling.md)
 
-External code
--------------
+## 外部代码
 
 - [Using Yii in third party apps](using-yii-in-third-party-apps.md)
 - Using third party code with Yii
 
-Tools
------
+## 工具
 
 - Making your life easier (XDebug, debug toolbar, gii)
 - [IDE autocompletion for custom components](ide-autocompletion.md)
