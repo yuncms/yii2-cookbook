@@ -94,9 +94,9 @@
 
 - Necessary production setup
 - Speeding up sessions
-- [Implementing backgroud tasks (cronjobs)](performance-cron.md)
+- [执行后台任务 (cronjobs)](performance-cron.md)
 - [Running Yii on HHVM](performance-hhvm.md)
-- [Caching](caching.md)
+- [缓存](caching.md)
 - [Configuring a Yii2 Application for an Autoscaling Stack](scaling.md)
 
 ## 外部代码
