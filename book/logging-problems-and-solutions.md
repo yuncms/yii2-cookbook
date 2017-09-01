@@ -1,5 +1,4 @@
-Logging: problems and solutions
-===============================
+# 日志: 问题和解决方案
 
 Logging in Yii is really flexible. Basics are easy but sometimes it takes time to configure
 everything to get what you want. There are some ready to use solutions collected below.
