@@ -1,5 +1,4 @@
-Adding SEO tags
-===============
+# 添加SEO标签
 
 Organic search is an excellent traffic source. In order to get it you have to make a lot of small steps to improve
 your project.
@@ -9,7 +8,7 @@ appearance and may result in better ranking.
 
 Let's review how to add SEO-related metadata to your pages.
 
-## Title
+## 标题
 
 It is very simple to set title. Inside controller action:
 
@@ -32,7 +31,7 @@ $this->title = $this->title ? $this->title : 'default title';
 ```
  
  
-## Description and Keywords
+## 描述和关键词
 
 There are no dedicated view parameters for `keywords` or  `description`. Since these are meta tags and you should
 set them by `registerMetaTag()` method.
