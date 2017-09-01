@@ -1,17 +1,17 @@
 # 目录
 
-- [Preface](preface.md)
+- [前言](preface.md)
 
 ## 基础知识
 
-- How component works
-- Events
+- 组件的工作原理
+- 事件
 - What to choose? Object or Component?
-- Configuring components globally
+- 配置全局组件
 
 ## 日志和错误处理
 
-- [Logging: problems and solutions](logging-problems-and-solutions.md)
+- [日志: 问题和解决方案](logging-problems-and-solutions.md)
 - Customizing 404 page
 - Handling errors and exceptions
 - Understanding error stack trace
@@ -28,8 +28,8 @@
 
 ## SEO必需品
 
-- [Enable pretty URLs](enable-pretty-urls.md)
-- [Pagination with pretty URLs](pagination-pretty-urls.md)
+- [启用优雅 Url](enable-pretty-urls.md)
+- [使用优雅 Url 分页](pagination-pretty-urls.md)
 - [Adding SEO tags](adding-seo-tags.md)
 - [Canonical URLs](canonical-urls.md)
 - [Using redirects](using-redirects.md)
