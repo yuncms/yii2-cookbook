@@ -12,41 +12,41 @@
 ## 日志和错误处理
 
 - [日志: 问题和解决方案](logging-problems-and-solutions.md)
-- Customizing 404 page
-- Handling errors and exceptions
+- 自定义404页面
+- 处理错误和异常
 - Understanding error stack trace
 
 ## Web essentials
 
 - [URLs with variable number of parameters](urls-variable-number-of-parameters.md)
-- [Outputting JSON and XML](response-formats.md)
+- [输出JSON和XML](response-formats.md)
 - Using Google fonts as assets
-- [Managing cookies](cookies.md)
+- [管理 cookies](cookies.md)
 - Using WYSIWYG
 - AJAX???
-- [Handling incoming third party POST requests](incoming-post.md)
+- [处理传入的第三方POST请求](incoming-post.md)
 
 ## SEO必需品
 
 - [启用优雅 Url](enable-pretty-urls.md)
 - [使用优雅 Url 分页](pagination-pretty-urls.md)
-- [Adding SEO tags](adding-seo-tags.md)
-- [Canonical URLs](canonical-urls.md)
-- [Using redirects](using-redirects.md)
+- [添加SEO标签](adding-seo-tags.md)
+- [规范网址](canonical-urls.md)
+- [使用重定向](using-redirects.md)
 - [Using slugs](using-slugs.md)
-- [Handling trailing slash in URLs](handling-trailing-slash-in-urls.md)
+- [处理URL中的斜杠](handling-trailing-slash-in-urls.md)
 
 ## 表单
 
-- [Using and customizing captcha](forms-captcha.md)
-- [Working with ActiveForm via JavaScript](forms-activeform-js.md)
-- [Uploading files](forms-uploading-files.md)
-- [Custom validator for multiple attributes](forms-validator-multiple-attributes.md)
+- [使用和自定义验证码](forms-captcha.md)
+- [通过JavaScript使用ActiveForm](forms-activeform-js.md)
+- [上传文件](forms-uploading-files.md)
+- [多个属性的自定义验证器](forms-validator-multiple-attributes.md)
 
 ## 安全
 
 - A safe approach to passwords explained
-- [SQL injection](sql-injection.md)
+- [SQL注入](sql-injection.md)
 - [XSS](xss.md)
 - [RBAC](security-rbac.md)
 - [CSRF](csrf.md)
@@ -69,8 +69,8 @@
 - Using blocks
 - Using decorators
 - When to use Widgets and when not to
-- [Switching themes dynamically](switching-themes.md)
-- [Post-processing response](response-post-processing.md)
+- [动态切换主题](switching-themes.md)
+- [后处理响应](response-post-processing.md)
 
 ## Models
 
@@ -95,9 +95,9 @@
 - Necessary production setup
 - Speeding up sessions
 - [执行后台任务 (cronjobs)](performance-cron.md)
-- [Running Yii on HHVM](performance-hhvm.md)
+- [在HHVM上运行Yii](performance-hhvm.md)
 - [缓存](caching.md)
-- [Configuring a Yii2 Application for an Autoscaling Stack](scaling.md)
+- [为自动缩放堆栈配置Yii2应用程序](scaling.md)
 
 ## 外部代码
 
