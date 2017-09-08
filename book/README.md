@@ -53,15 +53,15 @@
 
 ## 构建和组织代码
 
-- [Backend and frontend via modules](structure-backend-frontend-modules.md)
+- [后端和前端模块](structure-backend-frontend-modules.md)
 - [Asset processing with Grunt](structure-asset-processing-with-grunt.md)
 - Asset processing with Gulp
-- [Using global functions](structure-global-functions.md)
-- [Processing text](processing-text.md)
-- [Implementing typed collections](structure-collections.md)
+- [使用全局函数](structure-global-functions.md)
+- [处理文字](processing-text.md)
+- [实现类型化集合](structure-collections.md)
 - [MVC](mvc.md)
 - [SOLID](solid.md)
-- [Dependencies](dependencies.md)
+- [依赖](dependencies.md)
 
 ## 视图
 
@@ -80,14 +80,14 @@
 - Has and belongs to many
 - Using SQL and noSQL at the same time
 - Saving related models
-- [Single table inheritance](ar-single-table-inheritance.md)
+- [数据表继承](ar-single-table-inheritance.md)
 
 
 ## 多语言
 
 - General best practices
-- [Selecting application language](i18n-selecting-application-language.md)
-- [Using IDs as translation source](i18n-using-ids-as-translation-source.md)
+- [选择应用程序语言](i18n-selecting-application-language.md)
+- [使用ID作为翻译来源](i18n-using-ids-as-translation-source.md)
 
 
 ## 性能
@@ -101,11 +101,11 @@
 
 ## 外部代码
 
-- [Using Yii in third party apps](using-yii-in-third-party-apps.md)
+- [在第三方应用程序中使用Yii](using-yii-in-third-party-apps.md)
 - Using third party code with Yii
 
 ## 工具
 
 - Making your life easier (XDebug, debug toolbar, gii)
-- [IDE autocompletion for custom components](ide-autocompletion.md)
-- [Using custom migration template](using-custom-migration-template.md)
+- [IDE自动完成自定义组件](ide-autocompletion.md)
+- [使用自定义迁移模板](using-custom-migration-template.md)
